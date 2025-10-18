@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+   /*if you want to apply styling to the every element of our website  */
+   box-sizing: border-box;
+   margin:0;
+   padding:0;
+   font-family:"Outfit",Arial, Helvetica, sans-serif;
+   
+}
